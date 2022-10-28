@@ -5,7 +5,7 @@ I'm a **multi-disciplinary** game developer into Art & STEM. I have a **technica
 
 I've studied graphic design and then in _2018_ I've graduated as a **Designer and Animator for Videogames**. Since then, I've been learning and teaching online multiple skills related to game development.
 
-- 📫 How to reach me: **simonsanchez.art@gmail.com** 
+📫 How to reach me: **simonsanchez.art@gmail.com** 
 
 ## Articles
 
