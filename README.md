@@ -1,4 +1,3 @@
-![](https://pbs.twimg.com/profile_banners/775454437351514112/1723031783/1080x360)
 # HI, I'M SIMON :smiley:🖖
 
 I'm a **multi-disciplinary** game developer into Art & STEM. I have a **technical-designer profile** with a great passion for creating systems with an **empathetic approach**.
