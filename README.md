@@ -13,8 +13,8 @@ I've studied graphic design and then in _2018_ I've graduated as a **Designer an
 
 ## 📝 Articles
 
-- [Tangential Learning in Game Design](https://www.simonsanchez.art/blog/tangential-learning-in-world-games)
-- [Learning Applied to Game Design](https://www.simonsanchez.art/blog/learning-applied-to-game-design)
-- [Flow Optimization for Deja Vu](https://www.simonsanchez.art/blog/flow-optimization-for-deja-vu)
-- [Teaching the Player](https://www.simonsanchez.art/blog/teaching-the-player)
-- [The Photography of INSIDE](https://www.simonsanchez.art/blog/the-photography-of-inside)
+- [Tangential Learning in Game Design](https://www.simonsanchez.art/articles/tangential-learning-in-world-games)
+- [Learning Applied to Game Design](https://www.simonsanchez.art/articles/learning-applied-to-game-design)
+- [Flow Optimization for Deja Vu](https://www.simonsanchez.art/articles/flow-optimization-for-deja-vu)
+- [Teaching the Player](https://www.simonsanchez.art/articles/teaching-the-player)
+- [The Photography of INSIDE](https://www.simonsanchez.art/articles/the-photography-of-inside)
