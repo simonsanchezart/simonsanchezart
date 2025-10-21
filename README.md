@@ -1,19 +1,16 @@
-# HI, I'M SIMON :smiley:🖖
+👋 Hi, I'm Simon — Developer & Tech Artist
 
-I'm a **multi-disciplinary** game developer into Art & STEM. I have a **technical-designer profile** with a great passion for creating systems with an **empathetic approach**.
+I’m passionate about building tools and systems that make game development more efficient and creative. My work focuses on technical art, pipeline automation, and tool programming.
 
-I've studied graphic design and then in _2018_ I've graduated as a **Designer and Animator for Videogames**. Since then, I've been learning and teaching online multiple skills related to game development.
-
-📫 How to reach me: **simonsanchez.art@gmail.com** 
-
+I enjoy solving complex problems through code — improving workflows, creating custom solutions, and connecting different parts of the production pipeline.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.simonsanchez.art/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonsanchezart/)
+
+[Portfolio](https://www.simonsanchez.art/) | [LinkedIn](https://www.linkedin.com/in/simonsanchezart/) |[Resume](https://www.simonsanchez.art/Simon%20Sanchez%20-%20Software%20Engineer.pdf)
 
 ## 📝 Articles
 
-- [Tangential Learning in Game Design](https://www.simonsanchez.art/articles/tangential-learning-in-world-games)
+- [Ping Pong Color Post-Mortem](https://www.simonsanchez.art/articles/notes-on-the-making-of-ping-pong-color)
 - [Learning Applied to Game Design](https://www.simonsanchez.art/articles/learning-applied-to-game-design)
 - [Flow Optimization for Deja Vu](https://www.simonsanchez.art/articles/flow-optimization-for-deja-vu)
 - [Teaching the Player](https://www.simonsanchez.art/articles/teaching-the-player)
