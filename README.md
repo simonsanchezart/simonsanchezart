@@ -1,4 +1,4 @@
-👋 Hi, I'm Simon — Developer & Tech Artist
+# 👋 Hi, I'm Simon — Developer & Tech Artist
 
 I’m passionate about building tools and systems that make game development more efficient and creative. My work focuses on technical art, pipeline automation, and tool programming.
 
