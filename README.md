@@ -10,6 +10,7 @@ I’m passionate about building tools and systems that makes the team's work mor
 
 ## 📝 Articles
 
+- [Jeringa: Custom C# Attributes for Easy Dependency Injection](https://www.simonsanchez.art/articles/jeringa-custom-csharp-attributes-dependency-injection)
 - [Ping Pong Color Post-Mortem](https://www.simonsanchez.art/articles/notes-on-the-making-of-ping-pong-color)
 - [Learning Applied to Game Design](https://www.simonsanchez.art/articles/learning-applied-to-game-design)
 - [Teaching the Player](https://www.simonsanchez.art/articles/teaching-the-player)
