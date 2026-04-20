@@ -6,7 +6,7 @@ I’m passionate about building tools and systems that makes the team's work mor
 -> **Frameworks/Libraries**: Qt/QML (PySide), Tauri (React + Rust), Three.JS\
 -> **Tools & Platforms**: Unity, Blender, Git
 
-[Portfolio](https://www.simonsanchez.art/) | [LinkedIn](https://www.linkedin.com/in/simonsanchezart/) | [Resume](https://www.simonsanchez.art/Simon%20Sanchez%20-%20Software%20Engineer.pdf)\
+[Portfolio](https://www.simonsanchez.art/) | [LinkedIn](https://www.linkedin.com/in/simonsanchezart/) | [Resume](https://www.simonsanchez.art/resume/tech/Simon_Sanchez_Resume.pdf)\
 [simonsanchez.art@gmail.com](mailto:simonsanchez.art@gmail.com)
 
 ## 📝 Articles
