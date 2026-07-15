@@ -2,11 +2,11 @@
 
 I’m passionate about building tools and systems that makes the team's work more efficient and creative. My work focuses on technical art, pipeline automation, and tool programming.
 
--> **Languages**: Python, C#, C/C++, HLSL, TypeScript / JavaScript\
--> **Frameworks/Libraries**: Qt/QML (PySide), Tauri (React + Rust), Three.JS\
--> **Tools & Platforms**: Unity, Blender, Git
+>\> **Languages**: Python, C#, C/C++, HLSL, TypeScript / JavaScript\
+>\> **Tools & Platforms**: Unity, Blender API, Git, Github Actions\
+>\> **Frameworks/Libraries**: Qt/QML (PySide), Tauri (React + Rust), Three.JS/R3F, Zustand
 
-[Portfolio](https://www.simonsanchez.art/) | [LinkedIn](https://www.linkedin.com/in/simonsanchezart/) | [Resume](https://www.simonsanchez.art/resume/tech/Simon_Sanchez_Resume.pdf)\
+[Portfolio](https://www.simonsanchez.art/) | [LinkedIn](https://www.linkedin.com/in/simonsanchezart/) | [Resume](https://www.simonsanchez.art/resume/Simon_Sanchez_Resume.pdf)\
 [simonsanchez.art@gmail.com](mailto:simonsanchez.art@gmail.com)
 
 ## 📝 Articles
