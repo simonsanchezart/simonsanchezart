@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Simon - Developer & Tech Artist
+# 👋 Hi, I'm Simon - Software Developer & Tech Artist
 
 I’m passionate about building tools and systems that makes the team's work more efficient and creative. My work focuses on technical art, pipeline automation, and tool programming.
 
->\> **Languages**: Python, C#, C/C++, HLSL, TypeScript / JavaScript\
+>\> **Languages**: Python, C#, C/C++, TypeScript / JavaScript\
 >\> **Tools & Platforms**: Unity, Blender API, Git, Github Actions\
 >\> **Frameworks/Libraries**: Qt/QML (PySide), Tauri (React + Rust), Three.JS/R3F, Zustand
 
